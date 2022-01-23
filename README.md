@@ -5,3 +5,6 @@ small inseparable units
 
 * docker
   * [2021-12-11](./learns/2021-12-11.md)
+  
+* algorithm
+  * [2022-01-23](./learns/2022-01-23.md)
