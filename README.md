@@ -9,6 +9,7 @@ small inseparable units
 * algorithm
   * [2022-01-23](./learns/2022-01-23.md)
   * [2022-01-30](./learns/2022-01-30.md)
+  * [2022-01-31](./learns/2022-01-31.md)
   
 * reading
   * [2022-01-30](./learns/2022-01-30.md)
