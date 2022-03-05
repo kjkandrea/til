@@ -1,4 +1,7 @@
 # til
+
+학습 메모용도로 사용중
+
 small inseparable units
 
 ## navigation
